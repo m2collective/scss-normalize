@@ -1,0 +1,40 @@
+{
+  "name": "@m2collective/scss-normalize",
+  "version": "0.1.0",
+  "description": "A modern alternative to the classic normalize.css is a minimum of code, maximum benefit",
+  "keywords": [
+    "m2collective",
+    "scss",
+    "normalize",
+    "reset",
+    "frontend",
+    "style",
+    "base"
+  ],
+  "main": "index.scss",
+  "exports": {
+    ".": {
+      "sass": "./index.scss",
+      "default": "./index.scss"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m2collective/scss-normalize.git"
+  },
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m2collective/scss-normalize/issues"
+  },
+  "homepage": "https://github.com/m2collective/scss-normalize#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
