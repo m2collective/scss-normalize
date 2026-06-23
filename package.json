@@ -7,9 +7,8 @@
     "scss",
     "normalize",
     "reset",
-    "frontend",
     "style",
-    "base"
+    "front-end"
   ],
   "main": "index.scss",
   "exports": {
