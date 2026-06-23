@@ -16,6 +16,8 @@ npm i @m2collective/scss-normalize
 
 ## Usage
 
+To use it, import the package:
+
 ```scss
 @use "@m2collective/scss-normalize";
 ```
